@@ -47,7 +47,7 @@ public class Producer {
         producer.close();
     }
 
-    private static final String ALPHA_NUMERIC_STRING = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    private static final String ALPHA_NUMERIC_STRING = "Bearcat is always a bearcat";
 
     public static String randomAlphaNumeric(int count) {
       
